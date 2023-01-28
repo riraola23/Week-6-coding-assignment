@@ -1,0 +1,23 @@
+{
+  "name": "wargame-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index_test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riraola23/Week-6-coding-assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riraola23/Week-6-coding-assignment/issues"
+  },
+  "homepage": "https://github.com/riraola23/Week-6-coding-assignment#readme",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
